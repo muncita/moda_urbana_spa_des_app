@@ -1,0 +1,2 @@
+28.10.2025:
+    se creó el proyecto y se subió a GitHub
