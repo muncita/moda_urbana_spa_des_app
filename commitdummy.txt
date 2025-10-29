@@ -1,2 +1,5 @@
 28.10.2025:
     se creó el proyecto y se subió a GitHub
+
+29.10.2025:
+    se crea la estructura de carpetas(package)
