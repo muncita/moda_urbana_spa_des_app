@@ -20,6 +20,7 @@ import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
 import com.example.modaurbanaapp.ui.theme.ModaUrbanaAppTheme
 
+// :P
 data class ProductUi(
     val id: String,
     val name: String,
