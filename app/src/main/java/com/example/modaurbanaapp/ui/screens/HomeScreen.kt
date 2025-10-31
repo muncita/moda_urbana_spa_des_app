@@ -34,14 +34,14 @@ fun HomeScreen(modifier: Modifier = Modifier) {
     val banners = remember {
         listOf(
             // Usa imágenes libres/propias; por ahora demo
-            "https://picsum.photos/id/1011/1200/600",
+            "https://www.kliper.cl/media/catalog/product/s/h/sh962323031_om069_1_1.jpg",
             "https://picsum.photos/id/1015/1200/600",
             "https://picsum.photos/id/1016/1200/600"
         )
     }
     val products = remember {
         listOf(
-            ProductUi("1","Polerón Heavyweight® On God – Negro", "$53.990", "$60.000","https://picsum.photos/id/100/600/600"),
+            ProductUi("1","Polerón Heavyweight® On God – Negro", "$53.990", "$60.000","https://www.kliper.cl/media/catalog/product/s/h/sh962323031_om069_1_1.jpg"),
             ProductUi("2","Polerón Heavyweight® Maltese Cross – Rojo", "$44.990", "$50.000","https://picsum.photos/id/101/600/600"),
             ProductUi("3","Polerón Heavyweight® Maltese Cross – Negro", "$44.990", "$50.000","https://picsum.photos/id/102/600/600"),
             ProductUi("4","Polerón Heavyweight® Jesus Saves – Washed", "$53.990", "$60.000","https://picsum.photos/id/103/600/600"),
