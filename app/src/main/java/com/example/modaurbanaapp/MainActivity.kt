@@ -34,7 +34,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//try :P
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun ModaUrbanaApp() {
